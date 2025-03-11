@@ -1,7 +1,7 @@
 # Descripción del Proyecto
 Juego de Tic Tac Toe (Tres en Raya) desarrollado en Python, implementando lógica del juego, manejo de turnos, detección de victorias y una interfaz visual con el tablero en verde. Proyecto realizado con metodologías ágiles y trabajo en equipo.
 
-# Descripción del Juego
+## Descripción del Juego
 
 Tic Tac Toe es un juego de estrategia para dos jugadores que se juega en una cuadrícula de 3x3. Los jugadores alternan turnos para colocar una "X" o una "O" en la cuadrícula. El objetivo es lograr alinear tres símbolos iguales en una fila (horizontal, vertical o diagonal) antes que el oponente. Si la cuadrícula se llena sin que ninguno de los jugadores haya ganado, el juego termina en empate.
 
